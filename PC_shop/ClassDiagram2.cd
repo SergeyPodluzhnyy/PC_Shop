@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PC_shop.Form1" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hrzcAMKFkCh65VMAomWEdPobIHgoOCJONGSBIDEBFkw=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="accessDataGridViewTextBoxColumn" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PC_shop.KR_PIDataSet">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PC_shop.KR_PIDataSet.ComputersRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="PC_shop.KR_PIDataSet.PeripheryDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.HRDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="PC_shop.KR_PIDataSet.PeripheryRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="PC_shop.KR_PIDataSet.PartsRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="PC_shop.KR_PIDataSet.PartsRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="PC_shop.KR_PIDataSet.PartsRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.ComputersRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.HRRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.PeripheryRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.ComputersRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.HRRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.ComputersDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="PC_shop.KR_PIDataSet.HRRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="PC_shop.KR_PIDataSet.PeripheryRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="PC_shop.KR_PIDataSet.PartsDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAYAwAQAAJgBBAAQgAQAAgDQBgAEEAAAgEABBA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_schemaSerializationMode" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PC_shop.KR_PIDataSetTableAdapters.ComputersTableAdapter" Collapsed="true">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_adapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PC_shop.KR_PIDataSetTableAdapters.HRTableAdapter" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_adapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PC_shop.KR_PIDataSetTableAdapters.PartsTableAdapter" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_adapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PC_shop.KR_PIDataSetTableAdapters.PeripheryTableAdapter" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_adapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PC_shop.KR_PIDataSetTableAdapters.TableAdapterManager">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PC_shop.KR_PIDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="PC_shop.KR_PIDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <AssociationLine Name="_backupDataSetBeforeUpdate" Type="System.Boolean" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3" Y="5.834" />
+        <Point X="3.897" Y="5.834" />
+        <Point X="3.897" Y="6.75" />
+        <Point X="5" Y="6.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ISAIACAAAABABAEBAAAAMAAhAAACgAAAIAQACBAABgQ=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_hRTableAdapter" />
+      <Field Name="_backupDataSetBeforeUpdate" />
+      <Field Name="_partsTableAdapter" />
+      <Field Name="_computersTableAdapter" />
+      <Field Name="_peripheryTableAdapter" />
+      <Field Name="_connection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Data.OleDb.OleDbDataAdapter" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.DataGridViewComboBoxColumn" Collapsed="true">
+    <Position X="6.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="System.Boolean" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Interface Name="System.Data.IDbConnection" Collapsed="true">
+    <Position X="1.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="System.Data.SchemaSerializationMode">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

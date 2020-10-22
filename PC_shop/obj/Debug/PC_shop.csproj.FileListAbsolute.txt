@@ -1,0 +1,14 @@
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\bin\Debug\PC_shop.exe.config
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\bin\Debug\PC_shop.exe
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\bin\Debug\PC_shop.pdb
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\obj\Debug\PC_shop.Form1.resources
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\obj\Debug\PC_shop.Properties.Resources.resources
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\obj\Debug\PC_shop.csproj.GenerateResource.Cache
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\obj\Debug\PC_shop.exe
+c:\users\sergey\documents\visual studio 2013\Projects\PC_shop\PC_shop\obj\Debug\PC_shop.pdb
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\PC_shop\PC_shop\bin\Debug\KR_PI.mdb
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\PC_shop\PC_shop\bin\Debug\KR_PIDataSet.Designer.cs
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\PC_shop\PC_shop\bin\Debug\KR_PIDataSet.xsc
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\PC_shop\PC_shop\bin\Debug\KR_PIDataSet.xsd
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\PC_shop\PC_shop\bin\Debug\KR_PIDataSet.xss
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\PC_shop\PC_shop\obj\Debug\PC_shop.csprojResolveAssemblyReference.cache
